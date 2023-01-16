@@ -1,22 +1,21 @@
-# Covid-19-Choropleth-Map
-Make a Covid-19 Choropleth Map in Mapbox
+<!-- //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// //-->
 
-To start, download the from the  US Covid-19 Tracking API,
+<br>
+<h1 align="center" href="https://medium.com/towards-data-science/make-a-covid-19-choropleth-map-in-mapbox-5c93ac86e907"> Covid 19 Choropleth Map </h1>
 
-https://covidtracking.com/api/states/daily
+<p>
+  <a href="https://github.com/DiegoHurtad0/Covid-19-Choropleth-Map"><img width="500" height="450" align='right' src="https://miro.medium.com/max/4800/1*UIL5MxvErJUOm35MwAL4Fw.webp?raw=true"></a>
+</p>
+▪️ How to Make a Covid-19 Choropleth Map in Mapbox
+<h3 align="left">Check it here:</h3>
+<a href="https://github.com/DiegoHurtad0/Covid-19-Choropleth-Map" target="blank"><img align="left" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="diegohurtadoo" height="30" width="40" /></a>
+<a href="https://medium.com/towards-data-science/make-a-covid-19-choropleth-map-in-mapbox-5c93ac86e907" target="blank"><img align="left" src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" alt="diegohurtadoo" height="30" width="40" /></a>
+<br>
+<h3 align="left">Languages:</h3>
+<a href="" target="blank"><img align="left" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="diegohurtadoo" height="30" width="40" /></a>
+<br>
+<h3 align="left">Data Visualization Tool:</h3>
 
-the US State Capitals, 
+<img src="https://www.vectorlogo.zone/logos/mapbox/mapbox-icon.svg" alt="plotly" width="40" height="40"/> </a> <a href="" target="_blank" rel="noreferrer">
 
-https://vega.github.io/vega-datasets/data/us-state-capitals.json
-
-and the GeoJSON object that represents the US space (Geometry)
-
-https://raw.githubusercontent.com/DiegoFurtt/Covid-19-Choropleth-Map/master/covidData.geojson
-
-<IMG src='https://docs.mapbox.com/help/assets/tutorials--choropleth-studio-gl-pt-1--leaflet-choropleth-960-68374658619eb2942aaf55b050660e33.webp' width=25% height=25%>
-  
-<P> This repository contains the implementations of Covid-19 Choropleth Map in Mapbox<P>
-
-
-  
-
+<!-- //////////////////////////////////////////////////////////////////////////////////// //-->
